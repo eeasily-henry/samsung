@@ -1,0 +1,10 @@
+// Carbon Design System styles.
+// Carbon ships SCSS; this emits the full component stylesheet (prefixed with `.cds--`),
+// so it coexists with Tailwind/shadcn utilities without class-name collisions.
+//
+// `use-akamai-cdn: true` makes the emitted @font-face rules load IBM Plex from
+// Carbon's CDN instead of the webpack-only `~@ibm/plex/...` relative paths,
+// which Turbopack cannot resolve.
+@use "@carbon/react" with (
+  $use-akamai-cdn: true
+);
