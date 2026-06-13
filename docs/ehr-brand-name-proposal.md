@@ -1,8 +1,9 @@
 # AI EHR 서비스 브랜드 네임 제안
 
-> 대상: **AI 기반 전자건강기록(EHR, 환자·병원용) 서비스**의 브랜드/제품 네임
-> 작성일: 2026-06-13
-> 조건: 기존 헬스케어 관련 서비스에서 사용 중인 이름은 제외
+> 대상: **카카오헬스케어 AI-Native EHR(전자의무기록, 환자·병원용 / B2H · CHA 병원그룹 연계)** 의 AI 브랜드/제품 네임
+> 작성일: 2026-06-13 (전략문서 반영 업데이트)
+> 조건: 기존 헬스케어 서비스 사용명 제외 — **카카오헬스케어 자사 브랜드 PASTA·Pasta Connect Pro 포함 제외**
+> 전략 비전: **"Remember More, Effort Less"** / AI 역할: **Trusted Workmate · Effortless Flow**
 
 ---
 
@@ -59,8 +60,10 @@ AI EHR(환자·병원용)는 **임상 신뢰**가 1순위, **AI 지능·자동�
 | Lumea | Lumea Digital Pathology — 디지털 병리 플랫폼 |
 | Caira / Caire / Cair | CAIRA Surgical, Caire Health, Cair Health 등 다수 |
 | Healink | healink.ai (치과 AI), healink.io (행동건강) |
+| Remi | Reimagine Care(종양 AI 비서), Remi Health(독일 진단), Remi(메드스파 리셉션 AI) — 헬스케어 다수 |
+| **PASTA / Pasta Connect Pro** | **카카오헬스케어 자사** 혈당관리 앱 및 의료진 대시보드 — 자사 브랜드라 신규 EHR AI명과 분리 필요 |
 
-또한 국내 기존 서비스(똑닥·굿닥·닥터나우·메디블록·루닛·뷰노·유비케어 의사랑·카카오헬스케어 파스타 등)와 겹치지 않도록 했습니다.
+또한 국내 기존 서비스(똑닥·굿닥·닥터나우·메디블록·루닛·뷰노·유비케어 의사랑 등) 및 글로벌 EHR AI(Epic Art/Penny/Emmie, Oracle Clinical AI Agent, Dragon Copilot 등)와 겹치지 않도록 했습니다.
 
 ---
 
@@ -125,7 +128,48 @@ EHR(환자·병원 기록 중심) 서비스의 AI는 **"또 하나의 챗봇 비
 
 ---
 
+## 7. 전략 적용 — 카카오헬스케어 AI-Native EHR UX 전략 정합성
+
+전략문서의 핵심(비전·AI 역할·6대 UX 키워드)에 후보를 정렬했습니다.
+
+### 7.1 비전 직결: "Remember More, Effort Less"
+
+> **Mediory = Medi(의료) + Memory(기억).** 비전 첫 단어 **"Remember"** 를 이름에 그대로 내장한 **유일한 후보**입니다.
+> AI 역할 정의 *"필요한 정보를 **기억**하고 먼저 제안하는 믿고 맡길 동료(Trusted Workmate)"* 와 의미가 1:1로 맞물립니다.
+> → 권장 태그라인: **"Mediory — Remember More, Effort Less."**
+
+### 7.2 AI 역할 정합성
+
+| 전략 개념 | 의미 | 가장 부합하는 후보 |
+|---|---|---|
+| **Trusted Workmate** (기억하고 먼저 제안하는 동료) | 기록·기억 기반 신뢰 | **Mediory**(기억), **Anavi**(병력 회상) |
+| **Effortless Flow** (유연한 전환·직관적 시각화) | 노력 절감·명확성 | Mediory(짧고 직관), 보조: 온차트 |
+| **Human → Clinical Intelligence** 확장 | 임상 지능화 | Anavi(anamnesis=임상 문진 어원) |
+
+### 7.3 6대 UX 키워드 × 후보 적합도
+
+| 후보 | Continuous | Proactive | Refining | Adaptive | Clarity | Accessible | 비전 정합 | 종합 |
+|---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| **Mediory** | ○ | ◎ 기억→선제안 | ○ | ○ | ◎ 직관 | ◎ 발음쉬움 | ◎ Remember 직역 | **★ 최적** |
+| **Anavi** | ○ | ◎ 병력 선제시 | ◎ 정교화 | ○ | △ | ○ | ◎ 회상 | ◎ |
+| Recordia | ◎ 연속기록 | ○ | ○ | △ | ○ | △ | ○ | ○ |
+
+(◎ 강함 / ○ 보통 / △ 약함)
+
+### 7.4 카카오 브랜드 톤 고려
+
+- 카카오헬스케어 기존 PASTA는 **친근한 일상어 + 백크로님**(Personalized·Accessible·Supportive·Tech-enabled·Affordable) 패턴입니다.
+- 동일 패턴(6대 키워드 백크로님)도 가능하나, 자사 PASTA와 **유사 톤 중복**·식별력 저하 우려가 있어 **신규 EHR AI는 별도 정체성**을 권장합니다. **Mediory**는 친근함(부드러운 음가)과 전문성(의료·기억)을 동시에 충족해 PASTA 라인과 **차별되면서도 카카오 톤과 공존** 가능합니다.
+
+### 7.5 최종 권고 (전략 반영)
+
+1. **Mediory (메디오리)** — 비전 "Remember More" 직역 + Trusted Workmate 직결 + 포지셔닝맵 화이트스페이스(지능형 기억) 선점. **1순위 확정 권장.**
+2. **Anavi (아나비)** — 임상 어원으로 'Clinical Intelligence 확장' 메시지에 강점. 전문성 강조 시 대안.
+3. 확정 전 **§5 클리어런스 체크리스트**(KIPRIS 9·10·42·44류, 도메인, SNS) 필수.
+
+---
+
 ## 부록: 빠른 우선순위 요약
-1. **Mediory (메디오리)** — 의미·확장성·검증 종합 최상
-2. **Anavi (아나비)** — 임상 전문성·간결성
+1. **Mediory (메디오리)** — 비전 "Remember More" 직역 · Trusted Workmate 직결 · 화이트스페이스 선점 (전략 종합 최상)
+2. **Anavi (아나비)** — 임상 어원(anamnesis) · Clinical Intelligence 확장 메시지
 3. **Recordia / 이음 (Ieum)** — 보조 후보
