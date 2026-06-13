@@ -76,6 +76,55 @@ AI EHR(환자·병원용)는 **임상 신뢰**가 1순위, **AI 지능·자동�
 
 ---
 
+## 6. 경쟁사 AI 네이밍 비교 & 포지셔닝맵
+
+### 6.1 주요 EHR 벤더의 AI 브랜드명 (2026 기준)
+
+| 벤더 | AI 브랜드명 | 성격 | 네이밍 유형 |
+|---|---|---|---|
+| **Epic** | **Art**(임상의용 스크라이브), **Penny**(수익주기), **Ask Emmie**(환자용 MyChart) | 역할별 인간 이름 페르소나 | 친근한 사람 이름 |
+| Epic | **Cosmos**(AI 모델군), **Agent Factory / Curiosity**(에이전트·파운데이션 모델) | 플랫폼·인프라 | 은유·코드네임 |
+| **Oracle Health** | **Clinical AI Agent** (구 Clinical Digital Assistant) | 기능 서술 | 디스크립티브 |
+| **Microsoft/Nuance** | **Dragon Copilot** (= Dragon Medical One + DAX), **DAX**(Dragon Ambient eXperience) | 제품·도구 | 은유+기능 |
+| 스타트업 | **Abridge**, **Suki**, **Nabla**, **Ambience**(Chart Chat), **Heidi**, **Eleos** | 회사/페르소나 | 코인드·사람 이름 |
+
+### 6.2 네이밍 컨벤션 인사이트 — 두 진영
+
+- **A. 인간 페르소나형** (Art·Penny·Emmie·Suki·Heidi·Nabla): 짧은 사람 이름. "말을 거는 비서" 메타포로 친근·기억 용이. → **레드오션, 매우 혼잡.**
+- **B. 시스템·인프라형** (Oracle Clinical AI Agent·Dragon Copilot·DAX): 기능을 서술하거나 도구를 명명. 엔터프라이즈 신뢰감. → 서술형이라 식별력은 낮음.
+
+> 빈 공간: **"지능형 기록·기억 그 자체"를 명명하는 은유형**. 경쟁사는 '비서 페르소나'나 '도구'를 명명할 뿐, **기록(EHR) 본질을 브랜드화한 곳이 드뭅니다.** 우리의 `Mediory(기억)`·`Anavi(병력)`·`Recordia(기록)`가 정확히 이 territory에 위치합니다.
+
+### 6.3 포지셔닝맵
+
+```
+                     인간 페르소나 ▲ (말 거는 비서)
+                                   │
+                Epic: Art·Penny·Emmie
+                   Suki · Heidi · Nabla          ← 레드오션 (혼잡)
+                                   │
+  기능 서술형 ────────────────────┼────────────────────► 은유·신조어
+  (Descriptive)                    │                      (Evocative)
+                                   │
+        Oracle Clinical AI Agent   │      ◇ 타깃 화이트스페이스
+        Dragon Copilot · DAX       │        Mediory · Anavi · Recordia
+              Abridge · Ambience · Cosmos
+                                   │
+                     시스템·인프라 ▼ (지능형 기록 그 자체)
+```
+
+- **가로축**: 기능 서술형(왼쪽) ↔ 은유·신조어(오른쪽)
+- **세로축**: 인간 페르소나(위) ↔ 시스템·인프라(아래)
+
+### 6.4 전략적 권고
+
+EHR(환자·병원 기록 중심) 서비스의 AI는 **"또 하나의 챗봇 비서"가 아니라 "지능형 건강기록 그 자체"** 로 포지셔닝하는 것이 차별화에 유리합니다.
+
+- **권고: 화이트스페이스(우하단) 선점** → **Mediory** 또는 **Anavi**. 기록·기억의 본질을 은유하면서 Epic의 인간 이름 페르소나(Art/Penny/Emmie) 및 Oracle의 서술형(Clinical AI Agent)과 명확히 차별화.
+- **대안: 페르소나 진영(우상단)에서 정면 경쟁하려면** Art/Suki급의 짧은 사람 이름이 필요 — 다만 헬스 영역 동명 충돌이 잦아 클리어런스 난도↑(Suki·Heidi·Emmie 등 이미 선점).
+
+---
+
 ## 부록: 빠른 우선순위 요약
 1. **Mediory (메디오리)** — 의미·확장성·검증 종합 최상
 2. **Anavi (아나비)** — 임상 전문성·간결성
