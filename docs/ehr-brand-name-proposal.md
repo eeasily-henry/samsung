@@ -62,6 +62,9 @@ AI EHR(환자·병원용)는 **임상 신뢰**가 1순위, **AI 지능·자동�
 | Healink | healink.ai (치과 AI), healink.io (행동건강) |
 | Remi | Reimagine Care(종양 AI 비서), Remi Health(독일 진단), Remi(메드스파 리셉션 AI) — 헬스케어 다수 |
 | **PASTA / Pasta Connect Pro** | **카카오헬스케어 자사** 혈당관리 앱 및 의료진 대시보드 — 자사 브랜드라 신규 EHR AI명과 분리 필요 |
+| Memora | Memora Health (Commure 인수, AI 케어 플랫폼) |
+| Cogniq | CognIQ — EMR 코딩 임상 AI |
+| Claro / Clario / Claros | Clario(임상시험), Claros Health(EHR 추출 AI), Claro Health 등 다수 |
 
 또한 국내 기존 서비스(똑닥·굿닥·닥터나우·메디블록·루닛·뷰노·유비케어 의사랑 등) 및 글로벌 EHR AI(Epic Art/Penny/Emmie, Oracle Clinical AI Agent, Dragon Copilot 등)와 겹치지 않도록 했습니다.
 
@@ -166,6 +169,56 @@ EHR(환자·병원 기록 중심) 서비스의 AI는 **"또 하나의 챗봇 비
 1. **Mediory (메디오리)** — 비전 "Remember More" 직역 + Trusted Workmate 직결 + 포지셔닝맵 화이트스페이스(지능형 기억) 선점. **1순위 확정 권장.**
 2. **Anavi (아나비)** — 임상 어원으로 'Clinical Intelligence 확장' 메시지에 강점. 전문성 강조 시 대안.
 3. 확정 전 **§5 클리어런스 체크리스트**(KIPRIS 9·10·42·44류, 도메인, SNS) 필수.
+
+---
+
+## 8. 네이밍 후보 20선 (마스터 리스트)
+
+> 검증표기: ✅ 웹 검색상 명확한 헬스케어 동명 미확인 / ◽ 미검증(상표·도메인 클리어런스 필요) / ⚠️ 근접 충돌 위험
+> 모든 후보는 상업화 전 §5 클리어런스 필수.
+
+### A. 기억·기록 — 비전 "Remember More" / EHR 본질 (전략 코어)
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 1 | **Mediory (메디오리)** | Medi(의료)+Memory(기억) | "Remember More" 직역·Trusted Workmate | ✅⭐ |
+| 2 | **Anavi (아나비)** | Anamnesis(병력 문진)+Vita | 병력 회상·Clinical Intelligence | ✅⭐ |
+| 3 | **Mnema (므네마)** | Mnemosyne, 기억의 여신 | 기억의 본질 상징 | ✅ |
+| 4 | Recordia (레코디아) | Record+-ia | 연속 기록(Continuous) | ◽ |
+| 5 | Remira (레미라) | Remember+-a | "Remember More" 어근 | ◽ |
+| 6 | Anamne (아남네) | Anamnesis 직접 | 임상 문진 어원 | ◽ |
+
+### B. 임상 지능 — Human → Clinical Intelligence
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 7 | **Noeta (노에타)** | Noesis(지적 인식) | 임상 지능 확장 | ✅ |
+| 8 | Clina (클리나) | Clinical | 임상 밀착 | ◽ |
+| 9 | Cleon (클레온) | 간결한 의료 음가 | 엔터프라이즈 신뢰 | ◽ |
+| 10 | Vireon (바이리온) | Vita(생명)+-on | 생명력의 흐름 | ◽ |
+
+### C. 동료·신뢰 — Trusted Workmate
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 11 | Comra (콤라) | Comrade(동료) | 믿고 맡길 동료 | ◽ |
+| 12 | Anvi (안비) | 단음절 동료감 | 곁의 조력자 | ◽ |
+| 13 | **곁 / Gyeot** | 곁(beside) | "곁의 동료" 직관 한국어 | ◽ |
+
+### D. 명확성·흐름 — Clarity / Effortless Flow
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 14 | Lucen (루센) | Lucent(명료) | Clarity | ◽ |
+| 15 | Onda (온다) | 흐름 / '온다(도착)' | Effortless Flow | ◽ |
+| 16 | 결 / Gyeol | 결(texture·흐름) | 자연스러운 흐름 | ◽ |
+
+### E. 연결·접근 — Continuous / Accessible (한국어 뿌리)
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 17 | 이음 / Ieum | 잇다(연결) | Continuous·공공 신뢰 | ◽ |
+| 18 | 온차트 / OnChart | 溫(따뜻함·켜다)+Chart | 친근+임상 | ◽ |
+| 19 | Maru (마루) | 마루(정점·마룻대) | 한국적·간결 | ✅ |
+| 20 | Vitalo (바이탈로) | Vital(활력)+-o | 생체활력 | ⚠️ Vital 근접 |
+
+**검증 클린(✅) 5선**: Mediory · Anavi · Mnema · Noeta · Maru
+**전략 종합 1·2순위**: **Mediory**, **Anavi**
 
 ---
 
