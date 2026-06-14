@@ -274,6 +274,21 @@ EHR(환자·병원 기록 중심) 서비스의 AI는 **"또 하나의 챗봇 비
 > **즉시 진행 안전군(검증 ✅)**: Mediory · Anavi · Noeta · Maru
 > **종합 1·2순위 권장**: **Mediory**, **Anavi**
 
+### 9.4 최종 선정 Top 5 (확정)
+> 의사결정 반영 — 아래 5개를 최종 후보군으로 확정.
+
+| 순위 | 이름 | 의미 | 전략 연결 | 검증 |
+|:--:|---|---|---|:--:|
+| **1** | **메디오리 / Mediory** | Medi(의료)+Memory(기억) | 비전 "Remember More" 직역 · Trusted Workmate | ✅ |
+| **2** | **레미라 / Remira** | Remember 어근 | "Remember More" 상기 | ◽ |
+| **3** | **노에타 / Noeta** | Noesis(지적 인식) | Clinical Intelligence | ✅ |
+| **4** | **클리나 / Clina** | Clinical | 임상 밀착 | ◽ |
+| **5** | **미리 / Miri** | '미리'(앞서 알려줌) | Proactive 한국어 직역 | ◽ |
+
+- **메디오리** — 검증 클린 + 비전 직역. 1순위 유지.
+- **노에타** — 검증 클린. 안전 백업.
+- **레미라 · 클리나 · 미리** — ◽ 미검증 → 확정 전 KIPRIS(9·42·44류)·도메인·SNS 클리어런스 필수. (미리는 일반어라 식별력 보강 권장)
+
 ---
 
 ## 10. Top 4 클리어런스 사전점검 (Mediory · Anavi · Noeta · Maru)
@@ -362,6 +377,9 @@ EHR(환자·병원 기록 중심) 서비스의 AI는 **"또 하나의 챗봇 비
 ---
 
 ## 부록: 빠른 우선순위 요약
-1. **Mediory (메디오리)** — 비전 "Remember More" 직역 · Trusted Workmate 직결 · 화이트스페이스 선점 (전략 종합 최상)
-2. **Anavi (아나비)** — 임상 어원(anamnesis) · Clinical Intelligence 확장 메시지
-3. **Recordia / 이음 (Ieum)** — 보조 후보
+**최종 선정 Top 5 (확정):**
+1. **메디오리 / Mediory** — 비전 "Remember More" 직역 · 검증 클린 (1순위)
+2. **레미라 / Remira** — Remember 어근 (◽ 클리어런스 필요)
+3. **노에타 / Noeta** — 임상 지능(noesis) · 검증 클린
+4. **클리나 / Clina** — Clinical 밀착 (◽ 클리어런스 필요)
+5. **미리 / Miri** — Proactive 한국어 직역 (◽ KIPRIS·식별력 보강)
