@@ -65,6 +65,10 @@ AI EHR(환자·병원용)는 **임상 신뢰**가 1순위, **AI 지능·자동�
 | Memora | Memora Health (Commure 인수, AI 케어 플랫폼) |
 | Cogniq | CognIQ — EMR 코딩 임상 AI |
 | Claro / Clario / Claros | Clario(임상시험), Claros Health(EHR 추출 AI), Claro Health 등 다수 |
+| Engram | Engram Lab(AI 기억 스타트업, $48M)·Engram.ai 등 — AI '기억' 영역 정면 |
+| Sapia | Sapia.ai(HR 면접 AI)·Sapia Health 등 |
+| Cognova | Cognova AI(보이스 에이전트)·Cognera Health 인접 |
+| Cordia | Cordia360(디지털 헬스)·Cordis(의료기기) |
 
 또한 국내 기존 서비스(똑닥·굿닥·닥터나우·메디블록·루닛·뷰노·유비케어 의사랑 등) 및 글로벌 EHR AI(Epic Art/Penny/Emmie, Oracle Clinical AI Agent, Dragon Copilot 등)와 겹치지 않도록 했습니다.
 
@@ -297,6 +301,63 @@ EHR(환자·병원 기록 중심) 서비스의 AI는 **"또 하나의 챗봇 비
 3. Anavi·Maru — 상표 리스크로 후순위(법률검토 전제)
 
 **다음 액션**: Mediory·Noeta 대상 ① KIPRIS 9·42·44류 정식검색 ② whois(.com/.ai/.health) ③ 주요 SNS 핸들 확보. 이상 무이슈 시 **Mediory 확정** 권장.
+
+---
+
+## 11. 추가 후보 20선 (#21–40)
+
+> 검증표기: ✅ 동명 미확인 / ◽ 미검증(클리어런스 필요, 한국어는 KIPRIS 필수) / ⚠️ 근접 충돌
+> 한국어 뿌리 후보를 보강 — 전략 키워드(Proactive·Remember·Trusted)와 직결되고 카카오 톤에 부합.
+
+### A. 기억·상기 (Remember More)
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 21 | **Recalia (리칼리아)** | Recall(상기)+-ia | 기록을 다시 떠올림 | ✅ |
+| 22 | Mneo (므네오) | Mnemo(기억) 축약 | 기억의 본질 | ◽ |
+| 23 | Memoa (메모아) | Memo+Memory | 메모하듯 기억 | ◽ |
+| 24 | **새록 / Saerok** | '새록새록'(기억이 떠오름) | Remember 한국어 | ◽ |
+| 25 | 되새 / Doesae | '되새기다'(곱씹어 기억) | Refining·기억 | ◽ |
+
+### B. 임상 지능 (Clinical Intelligence)
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 26 | Sentia (센티아) | Sentient(감지·지각) | 선제 감지 | ◽ |
+| 27 | Klera (클레라) | Clarity 변형 | 명확한 지능 | ◽ |
+| 28 | Medora (메도라) | Medi+ora(말하다) | 말해주는 기록 | ◽ |
+| 29 | Lumind (루마인드) | Lumen(빛)+Mind | 밝히는 지능 | ⚠️ LuMind 인접 |
+
+### C. 동료·신뢰 (Trusted Workmate)
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 30 | **든든 / Deundeun** | 든든한(믿음직한) | Trusted Workmate 직역 | ◽ |
+| 31 | 벗 / Beot | 벗(동무·friend) | 곁의 동료 | ◽ |
+| 32 | Comura (코무라) | Comrade(동료) | 믿고 맡길 동료 | ◽ |
+
+### D. 명확성·흐름 (Clarity / Effortless Flow)
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 33 | Lucio (루치오) | Light(빛·명료) | Clarity | ◽ |
+| 34 | 선 / Seon | 線(연결선)·善(선함) | 잇는 흐름 | ◽ |
+| 35 | Floe (플로) | Flow(흐름) | Effortless Flow | ◽ |
+
+### E. 선제·접근 (Proactive / Accessible)
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 36 | **미리 / Miri** | '미리'(앞서 알려줌) | Proactive 한국어 직역 | ◽ |
+| 37 | 길 / Gil | 길(path·길잡이) | 흐름 안내 | ◽ |
+| 38 | 도담 / Dodam | '도담도담'(건강히 자람) | 케어·친근 | ◽ |
+
+### F. 기록 저장·케어 (Continuous / Care)
+| # | 이름 | 의미 | 전략 연결 | 검증 |
+|---|---|---|---|:--:|
+| 39 | 곳간 / Gotgan | 곳간(저장고) | 기록 저장소 메타포 | ◽ |
+| 40 | Caru (카루) | Care(돌봄) | 환자 케어 | ◽ |
+
+### 11.1 추가분 중 주목 후보
+- **Recalia (#21)** — 검증 클린 + 'Recall(상기)' 의미로 Mediory 계열과 결이 같음. 영문권 확장 양호.
+- **든든 / 미리 / 새록** — 전략 키워드(Trusted·Proactive·Remember)를 **한국어로 직역**한 직관형. 카카오 톤·국내 친근감 강점(상표는 일반어라 식별력 보강·KIPRIS 필수).
+
+> 전체 40선 중 **종합 1·2순위는 변동 없음: Mediory, Anavi**. 추가분에서 영문 신규 다크호스는 **Recalia**, 한국어 다크호스는 **든든**입니다.
 
 ---
 
