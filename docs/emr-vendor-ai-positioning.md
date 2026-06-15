@@ -20,8 +20,15 @@
 | **eClinicalWorks** | **Sunoh.ai** | 앰비언트 스크라이브 | 코인드+.ai |
 | **NextGen** | **Nia** | AI 오케스트레이션 에이전트 | 사람 이름 |
 | **Microsoft/Nuance** | **Dragon Copilot** (= Dragon Medical One + DAX) | 크로스-EHR 앰비언트 | 은유+Copilot |
+| **Veradigm**(구 Allscripts) | **Veradigm Ambient Scribe** (powered by AvodahMed) | 앰비언트 스크라이브 | 브랜드+기능 서술 |
+| **Abridge** | **Abridge** | 앰비언트 스크라이브(+환자 요약) | 코인드(사명=제품) |
+| **Ambience** | **Ambience** (Chart Chat) | 앰비언트·의료코딩 | 코인드 |
+| **Suki** | **Suki Assistant** | 음성 어시스턴트 | 사람 이름(페르소나) |
+| **Nabla** | **Nabla** (∇) | 앰비언트 스크라이브 | 코인드(기호) |
+| **유비케어**(→ GC메디아이) | **의사랑 AI** (Uisarang AI) | 진료기록·청구 자동화(STT→SOAP) | 기존 제품명+AI(국내) |
 
 > 참고: 다수 벤더가 스타트업(Abridge·Suki·Nabla·Ambience)을 임베드해 함께 제공.
+> **국내 동향**: 유비케어가 'GC메디아이'로 사명 변경하며 **"Beyond EMR"** 슬로건으로 *의사랑 AI* 출시(2026) — 카카오헬스케어의 직접 경쟁축. 네이밍은 **기존 EMR 제품명(의사랑)+AI** 의 서술형으로, 역시 'AI=기존 EMR의 확장기능' 프레임.
 
 ---
 
