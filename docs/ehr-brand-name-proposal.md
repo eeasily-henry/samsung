@@ -282,8 +282,8 @@ EHR(환자·병원 기록 중심) 서비스의 AI는 **"또 하나의 챗봇 비
 | **1** | **메디오리 / Mediory** | Medi(의료)+Memory(기억) | 비전 "Remember More" 직역 · Trusted Workmate | ✅ |
 | **2** | **레미라 / Remira** | Remember 어근 | "Remember More" 상기 | ◽ |
 | **3** | **노에타 / Noeta** | Noesis(지적 인식) | Clinical Intelligence | ✅ |
-| **4** | **클리나 / Clina** | Clinical | 임상 밀착 | ◽ |
-| **5** | **미리 / Miri** | '미리'(앞서 알려줌) | Proactive 한국어 직역 | ◽ |
+| **4** | **클리나 / Clina** | Clinical | 임상 밀착 | ⚠️ 'Clin-' 유사명 다수 |
+| **5** | **미리 / Miri** | '미리'(앞서 알려줌) | Proactive 한국어 직역 | ❌ Miri Health/AI 충돌 |
 
 - **메디오리** — 검증 클린 + 비전 직역. 1순위 유지.
 - **노에타** — 검증 클린. 안전 백업.

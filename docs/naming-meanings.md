@@ -58,3 +58,21 @@
 | Noeta 노에타 | 지성으로 읽다 (noesis) | Clinical Intelligence |
 | Cleon 클레온 | 명료하고 신뢰 (kleos+clear) | Clarity |
 | Solia 솔리아 | 위로하고 밝히다 (solace+sol) | Clarity·온기 |
+
+---
+
+## 헬스케어 AI 검증 현황 (웹검색 기준, 2026-06-15)
+> 베스트-에포트 웹검색. 확정은 KIPRIS(9·42·44류)+변리사 검토 필요.
+
+| 이름 | 검증 | 비고 |
+|---|:--:|---|
+| Mediory 메디오리 | ✅ 클린 | 동명 미확인 |
+| Noeta 노에타 | ✅ 클린 | 동명 미확인 |
+| Cleon 클레온 | ✅ 클린 | 비헬스(기업 온보딩 자동화)만 존재 |
+| Cheria 체리아 | ✅ 클린 | 동명 미확인 |
+| Lania 라니아 | ✅ 클린 | 동명 미확인 |
+| Solia 솔리아 | ✅ 클린 | Solum Health는 별개 |
+| Clina 클리나 | ⚠️ 주의 | 정확히 'Clina'는 없으나 Clinii·ClinikEHR·Clinically AI·Clinithink 등 'Clin-' 유사명 다수 → 혼동·식별력 리스크 |
+| Miri 미리 | ❌ 충돌 | Miri Health / Miri AI(미국 AI 헬스·웰니스 앱, AI 컴패니언명 'Miri') 직접 충돌 → 제외 권장 |
+
+**즉시 안전군(6)**: Mediory · Noeta · Cleon · Cheria · Lania · Solia
